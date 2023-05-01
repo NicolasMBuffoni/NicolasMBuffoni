@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Portfólio de Nicolas de Moraes</title>
+	<meta charset="UTF-8"
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
